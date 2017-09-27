@@ -22,4 +22,4 @@ Usage:
 Read LICENSE.txt for licensing information.
 
 Ryan White
-https://github.com/Flizzehh/C-gcc/Makefile-Generator
+https://github.com/Flizzehh/Makefile-Generator
