@@ -111,7 +111,7 @@ def GetFlags():
 	flags = []
 	while True:
 		print("Add any flags you would like to use separated by spaces. (Example: \">> Wall -o\")")
-		print("A dash can be included before a flag if you wish but it is not necessary as it will be added automatically in the event of its absense.")
+		print("A dash can be included before a flag if you wish but it is not necessary as it will be added automatically in the event of its absence.")
 		flagInput = input(">> ")
 		print("You are using the flags: \"" + flagInput + "\". Is this correct? (Yes/No)")
 		correct = ""
