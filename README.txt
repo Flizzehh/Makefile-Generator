@@ -1,7 +1,7 @@
 Thanks for using my makefile generator!
 
 Prerequisites:
-	1. Ensure you have Python 3.4+ installed (if running this on SoCS VM, you do)
+	1. Ensure you have Python 3.4+ installed.
 
 Usage:
 	1. You can run the generator by either:
@@ -22,4 +22,4 @@ Usage:
 Read LICENSE.txt for licensing information.
 
 Ryan White
-https://github.com/Flizzehh/Makefile-Generator
+https://github.com/rythwh/makefile-generator
